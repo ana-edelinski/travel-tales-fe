@@ -16,7 +16,7 @@ The application was developed by a team of 16 students using Scrum methodology, 
 ► Tour and blog creation for authors <br>
 ► A custom-built chatbot providing predefined assistance and guidance
 
-## Used Tools and Libraries 
+## Used Tools 
 ► Visual Studio </br> 
 ► Visual Studio Code </br> 
 ► pgAdmin </br> 
